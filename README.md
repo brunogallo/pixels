@@ -14,6 +14,9 @@ If you find it useful, donate:<br>
 ## Warning
 The game developers have spoken and the use of external tools is officially FORBIDDEN. I am not responsible for any penalties incurred by those who use them, use at your own risk.
 
+## Bot Working
+<img src="https://imgur.com/2upEKJK"><br>
+<img src="https://imgur.com/0OORqRH"><br>
 
 ## HowToUse
 After installing nodejs and the project dependencies, just use:

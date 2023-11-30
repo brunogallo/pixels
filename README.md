@@ -15,8 +15,11 @@ If you find it useful, donate:<br>
 The game developers have spoken and the use of external tools is officially FORBIDDEN. I am not responsible for any penalties incurred by those who use them, use at your own risk.
 
 ## Bot Working
-<img src="https://i.imgur.com/2upEKJK_d.webp?maxwidth=760&fidelity=grand" style="max-width: 200px;"><br>
-<img src="https://i.imgur.com/0OORqRH_d.webp?maxwidth=760&fidelity=grand" style="max-width: 200px;"><br>
+<p float="left">
+  <img src="https://i.imgur.com/cwmphF3.gif" height="300" width="400" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://i.imgur.com/hKwoMKO.gif" height="300" width="400" />
+</p>
 
 ## HowToUse
 After installing nodejs and the project dependencies, just use:

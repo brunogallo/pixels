@@ -26,12 +26,12 @@ In src/utils/token.txt you need to add your account email: exemple@exemple.com:t
 Don't worry, the bot will help you change the token to the correct one later ;)
 
 
--REMOVED: Playing the ticket event when the crop is not ripe (PET EVENT);
--TODO: Check the quests to complete them;
--TODO: Go to the free and VIP sauna; (need remake, will be muted);
--TODO: Moca Event;
+REMOVED: Playing the ticket event when the crop is not ripe (PET EVENT);<br>
+TODO: Check the quests to complete them;<br>
+TODO: Go to the free and VIP sauna; (need remake, will be muted);<br>
+TODO: Moca Event;<br>
 <br>
-The project is not finished.
+# The project is not finished.
 
 
 

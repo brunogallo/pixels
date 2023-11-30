@@ -1,10 +1,15 @@
 # YOU CAN'T SELL OR RENT IT.
 This bot is open source, so anyone can look at it, fork it or make updates.<br>
 
+
 ## Donate
 If you find it useful, donate it:<br>
 0x5462b9cac25D21467351A29AffE228cA5e959184 - (BSC/POLYGON/ETH)<br>
-[LIVEPIX](https://livepix.gg/0xgallo)
+[LIVEPIX](https://livepix.gg/0xgallo)<br>
+
+
+## Any Question?
+![Discord Banner 1](https://discordapp.com/api/guilds/549714552007295006/widget.png?style=banner1)<br>
 
 
 ## Warning

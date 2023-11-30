@@ -23,7 +23,12 @@ pnpm start
 ```
 
 In src/utils/token.txt you need to add your account email: exemple@exemple.com:token<br>
-Don't worry, the bot will help you change the token to the correct one later ;)
+Don't worry, the bot will help you change the token to the correct one later ;)<br>
+
+If got onError => (4511) need-recaptcha
+Just open the game on browser;<br>
+Click on start game and wait loading<br>
+close and try again the bot<br>
 
 
 REMOVED: Playing the ticket event when the crop is not ripe (PET EVENT);<br>

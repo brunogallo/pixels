@@ -9,8 +9,10 @@ If you find it useful, donate it:<br>
 
 
 ## Any Question?
-![Discord Banner 3](https://discordapp.com/api/guilds/549714552007295006/widget.png?style=banner3)<br>
+![Discord Banner 3]()<br>
+https://discord.gg/rPXc3hURCr
 
+<img src="https://discordapp.com/api/guilds/549714552007295006/widget.png">
 
 ## Warning
 The game developers have spoken and the use of external tools is officially FORBIDDEN. I am not responsible for any penalties incurred by those who use them, use at your own risk.

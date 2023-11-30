@@ -9,7 +9,7 @@ If you find it useful, donate it:<br>
 
 
 ## Any Question?
-![Discord Banner 1](https://discordapp.com/api/guilds/549714552007295006/widget.png?style=banner1)<br>
+![Discord Banner 3](https://discordapp.com/api/guilds/549714552007295006/widget.png?style=banner3)<br>
 
 
 ## Warning

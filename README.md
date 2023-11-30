@@ -21,7 +21,7 @@ pnpm start
 ```
 
 In src/utils/token.txt you need to add your account email:
-exemplo@exemplo.com:token
+exemple@exemple.com:token
 
 Don't worry, the bot will help you change the token to the correct one later ;)
 

@@ -1,11 +1,9 @@
 # YOU CAN'T SELL OR RENT IT.
-This bot is open source, so anyone can look at it, fork it or make updates.
-
+This bot is open source, so anyone can look at it, fork it or make updates.<br>
 
 ## Donate
-If you find it useful, donate it:
-0x5462b9cac25D21467351A29AffE228cA5e959184 - (BSC/POLYGON/ETH)
-
+If you find it useful, donate it:<br>
+0x5462b9cac25D21467351A29AffE228cA5e959184 - (BSC/POLYGON/ETH)<br>
 [LIVEPIX](https://livepix.gg/0xgallo)
 
 
@@ -24,22 +22,15 @@ yarn start
 pnpm start
 ```
 
-In src/utils/token.txt you need to add your account email: exemple@exemple.com:token
-
-
+In src/utils/token.txt you need to add your account email: exemple@exemple.com:token<br>
 Don't worry, the bot will help you change the token to the correct one later ;)
 
 
-REMOVED: Playing the ticket event when the crop is not ripe (PET EVENT);
-
-TODO: Check the quests to complete them;
-
-TODO: Go to the free and VIP sauna; (need remake, will be muted);
-
-TODO: Moca Event;
-
-
-
+-REMOVED: Playing the ticket event when the crop is not ripe (PET EVENT);
+-TODO: Check the quests to complete them;
+-TODO: Go to the free and VIP sauna; (need remake, will be muted);
+-TODO: Moca Event;
+<br>
 The project is not finished.
 
 

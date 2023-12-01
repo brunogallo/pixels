@@ -1,4 +1,6 @@
 # YOU CAN'T SELL OR RENT IT.
+# The bot is not finished.
+# It needs some validation, polishing, funcs and optimisation
 This bot is open source, so anyone can look at it, fork it or make updates.<br>
 
 

@@ -1,0 +1,20 @@
+{
+  "name": "pixel-project",
+  "version": "1.0",
+  "description": "A pixel xyz bot",
+  "main": "main.js",
+  "scripts": {
+    "start": "node src/main.js"
+  },
+  "repository": "https://github.com/brunogallo/pixels-xyz-bot",
+  "author": "0xGallo",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "colyseus.js": "^0.15.14",
+    "node-fetch": "^3.3.2",
+    "open": "^9.1.0",
+    "prettier": "^3.1.0",
+    "prompt-sync": "^4.2.0"
+  }
+}
